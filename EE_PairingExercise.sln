@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EE_PairingExercise", "EE_PairingExercise\EE_PairingExercise.csproj", "{2AFC81AA-7E93-46E4-B636-3CF6D94F40C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EE_SuperMarket", "EE_SuperMarket\EE_SuperMarket.csproj", "{08EB7A95-8618-4779-A5AE-FFBCC518D21E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AFC81AA-7E93-46E4-B636-3CF6D94F40C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFC81AA-7E93-46E4-B636-3CF6D94F40C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFC81AA-7E93-46E4-B636-3CF6D94F40C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFC81AA-7E93-46E4-B636-3CF6D94F40C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08EB7A95-8618-4779-A5AE-FFBCC518D21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EB7A95-8618-4779-A5AE-FFBCC518D21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EB7A95-8618-4779-A5AE-FFBCC518D21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EB7A95-8618-4779-A5AE-FFBCC518D21E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4834CDD-675A-4593-8CD7-6EB5B2D3A384}
+	EndGlobalSection
+EndGlobal

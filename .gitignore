@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EE_PairingExercise/obj/Debug
+/.vs/EE_PairingExercise/v15
+/packages/NUnit.3.12.0
+*.user
+/EE_SuperMarket/obj/Debug
+/EE_SuperMarket/bin/Debug
+/EE_PairingExercise/bin/Debug
